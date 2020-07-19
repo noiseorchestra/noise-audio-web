@@ -4,7 +4,7 @@
 
 # AUDIO-NOISE-WEB
 
-**This github page documents our experiments with [JackTrip](https://github.com/jacktrip/jacktrip) and the development of an accessible device which can be used to connect remote peers.**
+**This github page documents our experiments with [JackTrip](https://github.com/jacktrip/jacktrip) and the development of an accessible device which connects peers across the internet.**
 
 More info and background [here](https://noiseorchestra.org/2020/06/22/announcing-rd-project-for-playing-music-online-together/)
 
