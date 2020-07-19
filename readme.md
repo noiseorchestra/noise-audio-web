@@ -4,7 +4,7 @@
 
 # AUDIO-NOISE-WEB
 
-This github page is dedicated to our work developing a platform and accessible devices that create a networked online multi-person space for playing music, rehearsing and broadcasting with good audio quality and stable low latency. This is made possible by the multi-machine audio system [JackTrip](https://github.com/jacktrip/jacktrip).
+This github page documents our experiments with [JackTrip](https://github.com/jacktrip/jacktrip) and the development of an accessible device which can be used to connect remote peers.
 
 More info and background [here](https://noiseorchestra.org/2020/06/22/announcing-rd-project-for-playing-music-online-together/)
 
