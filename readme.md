@@ -27,6 +27,6 @@ These will be Raspberry Pi based devices designed as highly accesible entry poin
 ## Installation & Usage tbc..
 
 ## Contributing
-[Sam Andreae](www.samandreae.com)
+[Sam Andreae](https://www.samandreae.com)
 
 [madwort (aka Tom Ward)](https://github.com/madwort)
