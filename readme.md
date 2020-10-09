@@ -14,7 +14,7 @@ Our approach to creating audio-noise-web is one implementation of many different
 
 ## NOISE-SERVER*
 
-The noise-server enables and coordinates connections between peers (people with their own devices or an autonomous-noise-unit). There is a  JackTrip Server running in hub mode and a mixer / panning module for routing peer connections as they join the session. See the code for the autopatcher by [madwort (aka Tom Ward)](https://github.com/madwort) [here](https://github.com/madwort/jacktrip_pypatcher)
+The noise-server enables and coordinates connections between peers (people with their own devices or an autonomous-noise-unit). There is a  JackTrip Server running in hub mode and a mixer / panning module for routing peer connections as they join the session. See the code for the autopatcher by [madwort (aka Tom Ward)](https://github.com/madwort) [here](https://github.com/noiseorchestra/jacktrip_pypatcher)
 
 \*working title
 
