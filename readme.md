@@ -12,17 +12,15 @@ We are collecting our research and eventually setup instructions on our [Wiki](h
 
 Our approach to creating audio-noise-web is one implementation of many different existing technologies, we hope it's useful for your use cases and recommend exploring the ongoing activity dedicated to developing these open network music technologies.
 
-## NOISE-SERVER*
+## NOISE-SERVER
 
 The noise-server enables and coordinates connections between peers (people with their own devices or an autonomous-noise-unit). There is a  JackTrip Server running in hub mode and a mixer / panning module for routing peer connections as they join the session. See the code for the autopatcher by [madwort (aka Tom Ward)](https://github.com/madwort) [here](https://github.com/noiseorchestra/jacktrip_pypatcher)
 
-\*working title
 
-## AUTONOMOUS-NOISE-UNIT*
+## AUTONOMOUS-NOISE-UNIT
 
-These will be Raspberry Pi based devices designed as highly accesible entry points to the noise-server. Each device will have built in audio ins and outs and the ability to connect to a running session with one click. See the code [here](https://github.com/noiseorchestra/autonomous-noise-unit).
+These are Raspberry Pi based devices designed as highly accesible entry points to the noise-server. Each device has built in audio ins and outs and the ability to connect to a running session with one click. See the code [here](https://github.com/noiseorchestra/autonomous-noise-unit) by [Sam Andreae](https://www.samandreae.com).
 
-\*working title
 
 ## Installation & Usage tbc..
 
