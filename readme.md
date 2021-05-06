@@ -1,8 +1,8 @@
 # NOISE ORCHESTRA
 
-[Noise Orchestra](https://noiseorchestra.org/) are Manchester sound artists [Vicky Clarke](https://vickyclarke.org/about/) and [David Birchall](https://davidmbirchall.com/), we build Noise Machines that translate light into sound.  Working with light, DIY electronics, turntables and graphical scores, our practice operates at the intersection of art, experimental music and technology, manifesting in performance, DIY instrument making, sound walks, workshops and installations; all inspired by the photo-phonic principles of synthesizing sound from light.
+[autonomousnoiseunit.co.uk](https://autonomousnoiseunit.co.uk/home)
 
-# AUDIO-NOISE-WEB
+[Noise Orchestra](https://noiseorchestra.org/) are Manchester sound artists [Vicky Clarke](https://vickyclarke.org/about/) and [David Birchall](https://davidmbirchall.com/), we build Noise Machines that translate light into sound.  Working with light, DIY electronics, turntables and graphical scores, our practice operates at the intersection of art, experimental music and technology, manifesting in performance, DIY instrument making, sound walks, workshops and installations; all inspired by the photo-phonic principles of synthesizing sound from light.
 
 **This github page documents our experiments with [JackTrip](https://github.com/jacktrip/jacktrip) and the development of accessible devices that create a networked online multi-person space for playing music, rehearsing and broadcasting with good audio quality and stable low latency.**
 
@@ -12,9 +12,9 @@ We are collecting our research and eventually setup instructions on our [Wiki](h
 
 Our approach to creating audio-noise-web is one implementation of many different existing technologies, we hope it's useful for your use cases and recommend exploring the ongoing activity dedicated to developing these open network music technologies.
 
-## NOISE-SERVER
+## NOISE-SERVER (jacktrip pypatcher)
 
-The noise-server enables and coordinates connections between peers (people with their own devices or an autonomous-noise-unit). There is a  JackTrip Server running in hub mode and a mixer / panning module for routing peer connections as they join the session. See the code for the autopatcher by [madwort (aka Tom Ward)](https://github.com/madwort) [here](https://github.com/noiseorchestra/jacktrip_pypatcher)
+The noise-server enables and coordinates connections between peers (people with their own devices or an autonomous-noise-unit). There is a  JackTrip Server running in hub mode and a mixer / panning module for routing peer connections as they join the session. See the code for the autopatcher by [madwort (aka Tom Ward)](https://github.com/madwort) & [Sam Andreae](https://github.com/sandreae) [here](https://github.com/noiseorchestra/jacktrip_pypatcher)
 
 
 ## AUTONOMOUS-NOISE-UNIT
